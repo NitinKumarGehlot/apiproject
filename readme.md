@@ -15,7 +15,7 @@ cd apiproject
 pip install -r requirements.txt
 ```
 
-create a database 'apidatabase'
+create a database 'apidatabase'  
 upload countries.sql , states.sql , cities.sql (from countries-states-cities-database-master\sql folder into your apidatabase)
 
 ```bash
